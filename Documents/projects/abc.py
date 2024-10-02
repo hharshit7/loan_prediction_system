@@ -1,0 +1,1 @@
+print("This is my project about loan prediction")
